@@ -18,7 +18,7 @@ linkedin: https://www.linkedin.com/in/xinzhekhooi/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpeg
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon.ico
 
