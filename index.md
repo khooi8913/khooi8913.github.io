@@ -11,7 +11,7 @@ My detailed CV can be downloaded [here](https://drive.google.com/file/d/1m298m6v
 
 ## Research Interests
 
-My research interests lie in the domain of programmable networks, particularly in exploring new applications/ use cases/ design paradigms with programmable data planes and software-defined networking (SDN). 
+My research interests lie in the domain of programmable networks, particularly in exploring new applications/ use cases/ design paradigms with programmable data planes and software-defined networking (SDN) in cellular and/or data-center networks. 
 
 
 ## News
