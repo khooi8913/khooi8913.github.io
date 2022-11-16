@@ -65,7 +65,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Min Suk Kang, Dinil Mon Divakaran
   <br>
-  ACM SIGCOMM '20 Poster and Demo Sessions.
+  ACM SIGCOMM'20 Poster and Demo Sessions.
   <br>
   [[Paper](https://drive.google.com/file/d/1Zx4e8GEuoNxE4nkB6d1S9mmemT96u720/view?usp=sharing)] 
   [[Poster](https://drive.google.com/file/d/1eJlufdMrVqz_EmQMv0KMCaAj0PGv8PeS/view?usp=share_link)]
@@ -76,7 +76,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Min Suk Kang, Dinil Mon Divakaran
   <br>
-  ACM SIGCOMM '20 Poster and Demo Sessions.
+  ACM SIGCOMM'20 Poster and Demo Sessions.
   <br>
   [[Paper](https://drive.google.com/file/d/1NSiaost9GMequo4APX5Xpt09XpK0h6Wm/view?usp=sharing)] 
   [[Poster](https://drive.google.com/file/d/1VELD7SfutGeluv07EhgI2JdEsI7Kag-R/view?usp=share_link)] 
