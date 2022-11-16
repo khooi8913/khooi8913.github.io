@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student in the [School of Computing](https://www.comp.nus.edu.sg/) at the National University of Singapore (NUS), advised by [Prof. Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/).
+
 Prior to joining NUS, I did my undergraduate studies at the [Faculty of Computer Science and Information Technology (FCSIT)](https://fsktm.um.edu.my/), University of Malaya, Malaysia, with my senior-year thesis advised by [Assoc. Prof. Teck Chaw Ling](https://umexpert.um.edu.my/tchaw).
 
 My detailed CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: October'22). 
