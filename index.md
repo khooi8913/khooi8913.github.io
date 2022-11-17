@@ -40,6 +40,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   [[Paper](https://drive.google.com/file/d/1TQRaM-sGVOEvrBx2s-AvnwDioiXU3Sm2/view?usp=sharing)] 
   [[Video](https://www.youtube.com/watch?v=YSHEOA6LzXs&t=1s&ab_channel=P4LanguageConsortium)]
+  [[Code](https://github.com/khooi8913/rdma-multicast)]
   
 - **Revisiting Heavy-Hitter Detection on Commodity Programmable Switches**
   <br>
