@@ -72,6 +72,7 @@ My research interests lie in the domain of programmable networks, particularly i
   [[Poster](https://drive.google.com/file/d/1eJlufdMrVqz_EmQMv0KMCaAj0PGv8PeS/view?usp=share_link)]
   [[Demo Pt. I](https://youtu.be/aDkMkAMw9v4)] 
   [[Demo Pt. II](https://youtu.be/d6XJFIi4nz8)] 
+  [[Code](https://github.com/khooi8913/dida-demo)]
 
 - **Towards In-Network Time-Decaying Aggregates for Heavy-Hitter Detection**
   <br>
@@ -90,6 +91,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   [[Paper](https://drive.google.com/file/d/1Zx4e8GEuoNxE4nkB6d1S9mmemT96u720/view?usp=sharing)] 
   [[Video](https://youtu.be/3gOcq7eVjWA)] 
+  [[Code - BMv2](https://github.com/khooi8913/bmv2-dida)]
+  [[Code - Tofino](https://github.com/khooi8913/tofino-dida)]
 
 ## Teaching
 
