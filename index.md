@@ -97,14 +97,8 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## Teaching
 
-<!-- - CS2105 Introduction to Computer Networks (w/ [Richard Ma](https://www.comp.nus.edu.sg/~tbma) and [Jithin Vachery](https://www.comp.nus.edu.sg/~jithin/))
-<br>
-[Winter'23] -->
-
-<!-- - TIC2501 Computer Networks and Applications (w/ [Lifeng Zhou](https://www.comp.nus.edu.sg/cs/people/zhoulife/))
-<br>
-[Winter'23] -->
-
+- [Winter'23] 
+CS2105 Introduction to Computer Networks (w/ [Richard Ma](https://www.comp.nus.edu.sg/~tbma) and [Jithin Vachery](https://www.comp.nus.edu.sg/~jithin/))
 
 - [[Fall'22](https://drive.google.com/file/d/1eo8T4XvxonI7Ys2IoD19Ocn7yWvPeTZ_/view?usp=sharing)] 
 CS3103 Computer Networks Practice (w/ [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/))
