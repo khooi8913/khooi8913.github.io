@@ -27,7 +27,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   Cha Hwan Song, _**Xin Zhe Khooi**_, Dinil Mon Divakaran, Mun Choon Chan
   <br>
-  Computer Networks.
+  **Elsevier Computer Networks**.
   <br>
   [[Paper](https://doi.org/10.1016/j.comnet.2023.109607)]
   [[Code](https://github.com/dyso-project/dyso_p4)]
