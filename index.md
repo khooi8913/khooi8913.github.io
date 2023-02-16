@@ -17,10 +17,20 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## News
 
+- **[Feb. 2023]** Extension of DySO is accepted and published at Computer Networks.
 - **[Oct. 2022]** Awarded the inaugural SoC Teaching Fellowship (TFS) for 2023.
 - **[Apr. 2022]** Our paper about accelerating application offloads on programmable switches is accepted to IFIP Networking'22!
 
 ## Publications
+
+- **DySO: Enhancing Application Offload Efficiency on Programmable Switches**
+  <br>
+  Cha Hwan Song, _**Xin Zhe Khooi**_, Dinil Mon Divakaran, Mun Choon Chan
+  <br>
+  Computer Networks.
+  <br>
+  [[Paper](https://doi.org/10.1016/j.comnet.2023.109607)]
+  [[Code](https://github.com/dyso-project/dyso_p4)]
 
 - **Revisiting Application Offloads on Programmable Switches**
   <br>
