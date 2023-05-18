@@ -17,12 +17,9 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## News
 
-- **[May 2023]** Happy to share that 3 collaborated work has been accepted at ACM SIGCOMM 2023! 
+- **[May 2023]** Three collaborated works are accepted at ACM SIGCOMM'23! 
 - **[Feb. 2023]** Extension of DySO is accepted and published at Computer Networks.
 - **[Oct. 2022]** Awarded the inaugural SoC Teaching Fellowship (TFS) for 2023.
-<!---
-- **[Apr. 2022]** Our paper about accelerating application offloads on programmable switches is accepted to IFIP Networking'22!
---->
 
 ## Publications
 
