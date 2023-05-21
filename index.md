@@ -4,9 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the [School of Computing](https://www.comp.nus.edu.sg/) at the National University of Singapore (NUS), advised by [Prof. Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/).
+I am a PhD student in the [School of Computing](https://www.comp.nus.edu.sg/) at the National University of Singapore (NUS), advised by [Prof. Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/).
+Before my PhD studies, I was a Research Assistant at the NUS-Singtel Cybersecurity R&D Laboratory working closely with [Dr. Levente Csikor](http://lendulet.tmit.bme.hu/lendulet_website/?page_id=251), [Dr. Dinil Mon Divakaran](https://www.dinil.net/), and [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/min-suk-kang).
 
-Prior to joining NUS, I did my undergraduate studies at the [Faculty of Computer Science and Information Technology (FCSIT)](https://fsktm.um.edu.my/), University of Malaya, Malaysia, with my senior-year thesis advised by [Assoc. Prof. Teck Chaw Ling](https://umexpert.um.edu.my/tchaw).
+Prior to joining NUS, I did my undergraduate studies at the [Faculty of Computer Science and Information Technology (FCSIT)](https://fsktm.um.edu.my/), University of Malaya, Malaysia, with my senior-year thesis advised by [Prof. Teck Chaw Ling](https://umexpert.um.edu.my/tchaw).
 
 My detailed CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: March'23). 
 
@@ -21,13 +22,38 @@ My research interests lie in the domain of programmable networks, particularly i
 - **[Feb. 2023]** Extension of DySO is accepted and published at Computer Networks.
 - **[Oct. 2022]** Awarded the inaugural SoC Teaching Fellowship (TFS) for 2023.
 
-## Publications
+## Recent Publications
+
+<!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
+
+- **Network Load Balancing with In-network Reordering Support for RDMA**
+  <br>
+  Cha Hwan Song, _**Xin Zhe Khooi**_, Raj Joshi, Inho Choi, Jialin Li, Mun Choon Chan
+  <br>
+  ACM SIGCOMM'23. To appear.
+  <br>
+
+- **NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated In-Network Ordering**
+  <br>
+  Guangda Sun, _**Xin Zhe Khooi**_, Yunfan Li, Mingliang Jiang, Jialin Li
+  <br>
+  ACM SIGCOMM'23. To appear.
+  <br>
+  <!-- [[Paper](https://drive.google.com/file/d/100uJz38HpesRM44Z92po6NgskL49c98u/view?usp=sharing)]
+  [[Code](https://github.com/dyso-project/dyso_p4)] -->
+
+- **Masking Corruption Packet Losses in Datacenter Networks with Link-local Retransmission**
+  <br>
+  Raj Joshi, Cha Hwan Song, _**Xin Zhe Khooi**_, Nishant Budhdev, Ayush Misra, Mun Choon Chan, Ben Leong
+  <br>
+  ACM SIGCOMM'23. To appear.
+  <br>
 
 - **DySO: Enhancing Application Offload Efficiency on Programmable Switches**
   <br>
   Cha Hwan Song, _**Xin Zhe Khooi**_, Dinil Mon Divakaran, Mun Choon Chan
   <br>
-  **Elsevier Computer Networks**.
+  Elsevier Computer Networks.
   <br>
   [[Paper](https://doi.org/10.1016/j.comnet.2023.109607)]
   [[Code](https://github.com/dyso-project/dyso_p4)]
@@ -36,7 +62,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   Cha Hwan Song, _**Xin Zhe Khooi**_, Dinil Mon Divakaran, Mun Choon Chan
   <br>
-  IFIP Networking Conference. **IFIP Networking'22**.
+  <!-- IFIP Networking Conference.  -->
+  IFIP Networking'22.
   <br>
   [[Paper](https://drive.google.com/file/d/100uJz38HpesRM44Z92po6NgskL49c98u/view?usp=sharing)]
   [[Code](https://github.com/dyso-project/dyso_p4)]
@@ -46,7 +73,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Cha Hwan Song, Mun Choon Chan 
   <br>
-  Symposium on Architectures for Networking and Communications Systems. **ACM/IEEE ANCS'21**.
+  <!-- Symposium on Architectures for Networking and Communications Systems.  -->
+  ACM/IEEE ANCS'21. EuroP4'21.
   <br>
   [[Paper](https://drive.google.com/file/d/1TQRaM-sGVOEvrBx2s-AvnwDioiXU3Sm2/view?usp=sharing)] 
   [[Video](https://www.youtube.com/watch?v=YSHEOA6LzXs&t=1s&ab_channel=P4LanguageConsortium)]
@@ -56,7 +84,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Jialin Li, Min Suk Kang, Dinil Mon Divakaran
   <br>
-  IEEE Conference on Network Softwarization. **IEEE NetSoft'21**.
+  <!-- IEEE Conference on Network Softwarization.  -->
+  IEEE NetSoft'21. 
   <br>
   [[Paper](https://drive.google.com/file/d/1r8goW_vkg3kuB_VnqM3kAYrnKOy8FQQS/view?usp=sharing)]
   [[Video](https://youtu.be/-8tYqD2bsc8)] 
@@ -67,7 +96,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Jialin Li, Dinil Mon Divakaran
   <br>
-  IEEE Conference on Network Softwarization. **IEEE NetSoft'21**.
+  <!-- IEEE Conference on Network Softwarization.  -->
+  IEEE NetSoft'21. TaPoPF'21.
   <br>
   [[Paper](https://drive.google.com/file/d/12Q68AgAIrfxEgw9AdifUHp47ZtJgFMYg/view?usp=sharing)] 
   [[Video](https://youtu.be/X3R9Al34JnM)] 
@@ -98,9 +128,10 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Dinil Mon Divakaran, Min Suk Kang
   <br>
-  IEEE Conference on Network Softwarization. **IEEE NetSoft'20**.
+  <!-- IEEE Conference on Network Softwarization.  -->
+  IEEE NetSoft'20.
   <br>
-  [[Paper](https://drive.google.com/file/d/1Zx4e8GEuoNxE4nkB6d1S9mmemT96u720/view?usp=sharing)] 
+  [[Paper](https://drive.google.com/file/d/1vxQyDZCzdCIJILtUp2JwkOMUtXaT47w7/view?usp=share_link)] 
   [[Video](https://youtu.be/3gOcq7eVjWA)] 
   [[Code - BMv2](https://github.com/khooi8913/bmv2-dida)]
   [[Code - Tofino](https://github.com/khooi8913/tofino-dida)]
