@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a PhD student in the [School of Computing](https://www.comp.nus.edu.sg/) at the National University of Singapore (NUS), advised by [Prof. Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/).
-Before my PhD studies, I was a Research Assistant at the NUS-Singtel Cybersecurity R&D Laboratory working closely with [Dr. Levente Csikor](http://lendulet.tmit.bme.hu/lendulet_website/?page_id=251), [Dr. Dinil Mon Divakaran](https://www.dinil.net/), and [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/min-suk-kang).
+Before my PhD studies, I was a Research Assistant at the NUS-Singtel Cybersecurity R&D Laboratory working closely with [Dr. Levente Csikor](http://lendulet.tmit.bme.hu/lendulet_website/?page_id=251), [Dr. Dinil Mon Divakaran](https://www.dinil.net/), [Prof. Jialin Li](https://www.comp.nus.edu.sg/~lijl/) and [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/min-suk-kang).
 
 Prior to joining NUS, I did my undergraduate studies at the [Faculty of Computer Science and Information Technology (FCSIT)](https://fsktm.um.edu.my/), University of Malaya, Malaysia, with my senior-year thesis advised by [Prof. Teck Chaw Ling](https://umexpert.um.edu.my/tchaw).
 
