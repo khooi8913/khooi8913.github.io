@@ -138,7 +138,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## Teaching
 
-- [Winter'23] 
+- [[Winter'23](https://drive.google.com/file/d/16x2lIx5ttwGbu8y4VfJ8j_kLSD7o8cO5/view?usp=share_link)] 
 CS2105 Introduction to Computer Networks (w/ [Richard Ma](https://www.comp.nus.edu.sg/~tbma) and [Jithin Vachery](https://www.comp.nus.edu.sg/~jithin/))
 
 - [[Fall'22](https://drive.google.com/file/d/1eo8T4XvxonI7Ys2IoD19Ocn7yWvPeTZ_/view?usp=sharing)] 
