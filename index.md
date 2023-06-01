@@ -44,7 +44,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 - **Masking Corruption Packet Losses in Datacenter Networks with Link-local Retransmission**
   <br>
-  Raj Joshi, Cha Hwan Song, _**Xin Zhe Khooi**_, Nishant Budhdev, Ayush Misra, Mun Choon Chan, Ben Leong
+  Raj Joshi, Cha Hwan Song, _**Xin Zhe Khooi**_, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong
   <br>
   ACM SIGCOMM'23. To appear.
   <br>
