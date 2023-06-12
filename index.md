@@ -35,7 +35,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 - **NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated In-Network Ordering**
   <br>
-  Guangda Sun, _**Xin Zhe Khooi**_, Yunfan Li, Mingliang Jiang, Jialin Li
+  Guangda Sun, Mingliang Jiang, _**Xin Zhe Khooi**_, Yunfan Li, Jialin Li
   <br>
   ACM SIGCOMM'23. To appear.
   <br>
