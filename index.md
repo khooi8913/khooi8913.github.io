@@ -18,6 +18,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## News
 
+- **[July 2023]** One poster accepted at ACM SIGCOMM'23 Posters and Demos!
 - **[May 2023]** Three collaborated works are accepted at ACM SIGCOMM'23! 
 - **[Feb. 2023]** Extension of DySO is accepted and published at Computer Networks.
 - **[Oct. 2022]** Awarded the inaugural SoC Teaching Fellowship (TFS) for 2023.
@@ -25,6 +26,13 @@ My research interests lie in the domain of programmable networks, particularly i
 ## Recent Publications
 
 <!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
+
+- **Towards Accelerating the 5G Centralized Unit with Programmable Switches**
+  <br>
+  _**Xin Zhe Khooi**_, Archit Bhatnagar, Satis Kumar Permal, Nishant Budhdev, Cha Hwan Song, Mun Choon Chan
+  <br>
+  ACM SIGCOMM'23 Posters and Demos. To appear.
+  <br>
 
 - **Network Load Balancing with In-network Reordering Support for RDMA**
   <br>
