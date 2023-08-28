@@ -27,12 +27,13 @@ My research interests lie in the domain of programmable networks, particularly i
 
 <!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
 
-- **Towards Accelerating the 5G Centralized Unit with Programmable Switches**
+- **Poster: Towards Accelerating the 5G Centralized Unit with Programmable Switches**
   <br>
   _**Xin Zhe Khooi**_, Archit Bhatnagar, Satis Kumar Permal, Nishant Budhdev, Cha Hwan Song, Mun Choon Chan
   <br>
-  ACM SIGCOMM'23 Posters and Demos. To appear.
+  ACM SIGCOMM'23. To appear.
   <br>
+  [[Paper](https://drive.google.com/file/d/1npCdR9Wqa_6aNe5IfgrklZuEbwVddahA/view?usp=drive_link)]
 
 - **Network Load Balancing with In-network Reordering Support for RDMA**
   <br>
@@ -40,6 +41,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   ACM SIGCOMM'23. To appear.
   <br>
+  [[Paper](https://drive.google.com/file/d/1F2Z_KKdvD1_m8pfI_KRdhtiIjCbAPBn6/view?usp=drive_link)]
+  [[Code](https://github.com/conweave-project)]
 
 - **NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated In-Network Ordering**
   <br>
@@ -47,8 +50,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   ACM SIGCOMM'23. To appear.
   <br>
-  <!-- [[Paper](https://drive.google.com/file/d/100uJz38HpesRM44Z92po6NgskL49c98u/view?usp=sharing)]
-  [[Code](https://github.com/dyso-project/dyso_p4)] -->
+  [[Paper](https://drive.google.com/file/d/159rAMWz0I5pqqPs0c2U-Cq5inGPLcJRi/view?usp=drive_link)]
+  [[Code](https://github.com/nus-sys/neobft-artifact)]
 
 - **Masking Corruption Packet Losses in Datacenter Networks with Link-local Retransmission**
   <br>
@@ -56,6 +59,8 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   ACM SIGCOMM'23. To appear.
   <br>
+  [[Paper](https://drive.google.com/file/d/1J7QOX5M-qH_PcvB6nO0lndvMzqOnWuRW/view?usp=drive_link)]
+  [[Code](https://github.com/NUS-SNL/linkguardian)]
 
 - **DySO: Enhancing Application Offload Efficiency on Programmable Switches**
   <br>
@@ -70,7 +75,6 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   Cha Hwan Song, _**Xin Zhe Khooi**_, Dinil Mon Divakaran, Mun Choon Chan
   <br>
-  <!-- IFIP Networking Conference.  -->
   IFIP Networking'22.
   <br>
   [[Paper](https://drive.google.com/file/d/100uJz38HpesRM44Z92po6NgskL49c98u/view?usp=sharing)]
@@ -81,7 +85,6 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Cha Hwan Song, Mun Choon Chan 
   <br>
-  <!-- Symposium on Architectures for Networking and Communications Systems.  -->
   ACM/IEEE ANCS'21. EuroP4'21.
   <br>
   [[Paper](https://drive.google.com/file/d/1TQRaM-sGVOEvrBx2s-AvnwDioiXU3Sm2/view?usp=sharing)] 
@@ -92,7 +95,6 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Jialin Li, Min Suk Kang, Dinil Mon Divakaran
   <br>
-  <!-- IEEE Conference on Network Softwarization.  -->
   IEEE NetSoft'21. 
   <br>
   [[Paper](https://drive.google.com/file/d/1r8goW_vkg3kuB_VnqM3kAYrnKOy8FQQS/view?usp=sharing)]
@@ -104,7 +106,6 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Jialin Li, Dinil Mon Divakaran
   <br>
-  <!-- IEEE Conference on Network Softwarization.  -->
   IEEE NetSoft'21. TaPoPF'21.
   <br>
   [[Paper](https://drive.google.com/file/d/12Q68AgAIrfxEgw9AdifUHp47ZtJgFMYg/view?usp=sharing)] 
@@ -136,7 +137,6 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Levente Csikor, Dinil Mon Divakaran, Min Suk Kang
   <br>
-  <!-- IEEE Conference on Network Softwarization.  -->
   IEEE NetSoft'20.
   <br>
   [[Paper](https://drive.google.com/file/d/1vxQyDZCzdCIJILtUp2JwkOMUtXaT47w7/view?usp=share_link)] 
@@ -145,6 +145,8 @@ My research interests lie in the domain of programmable networks, particularly i
   [[Code - Tofino](https://github.com/khooi8913/tofino-dida)]
 
 ## Teaching
+
+- [Fall'23] CS5229 Advanced Computer Networks (w/ [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/))
 
 - [[Winter'23](https://drive.google.com/file/d/16x2lIx5ttwGbu8y4VfJ8j_kLSD7o8cO5/view?usp=share_link)] 
 CS2105 Introduction to Computer Networks (w/ [Richard Ma](https://www.comp.nus.edu.sg/~tbma) and [Jithin Vachery](https://www.comp.nus.edu.sg/~jithin/))
