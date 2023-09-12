@@ -34,6 +34,7 @@ My research interests lie in the domain of programmable networks, particularly i
   ACM SIGCOMM'23. To appear.
   <br>
   [[Paper](https://drive.google.com/file/d/1npCdR9Wqa_6aNe5IfgrklZuEbwVddahA/view?usp=drive_link)]
+  [[Poster](https://drive.google.com/file/d/1cHTYJSZf6UvQRQFaDnpC_WzPcAvCqcaw/)]
 
 - **Network Load Balancing with In-network Reordering Support for RDMA**
   <br>
