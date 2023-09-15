@@ -18,10 +18,11 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## News
 
-- **[July 2023]** One poster accepted at ACM SIGCOMM'23 Posters and Demos!
+- **[Sep 2023]** Emerged as 1st runner-up for the ACM Student Research Competition (SRC) at SIGCOMM!
+- **[Jul 2023]** One poster accepted at ACM SIGCOMM'23 Posters and Demos!
 - **[May 2023]** Three collaborated works are accepted at ACM SIGCOMM'23! 
-- **[Feb. 2023]** Extension of DySO is accepted and published at Computer Networks.
-- **[Oct. 2022]** Awarded the inaugural SoC Teaching Fellowship (TFS) for 2023.
+- **[Feb 2023]** Extension of DySO is accepted and published at Computer Networks.
+- **[Oct 2022]** Awarded the inaugural SoC Teaching Fellowship (TFS) for 2023.
 
 ## Recent Publications
 
@@ -31,7 +32,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   _**Xin Zhe Khooi**_, Archit Bhatnagar, Satis Kumar Permal, Nishant Budhdev, Cha Hwan Song, Mun Choon Chan
   <br>
-  ACM SIGCOMM'23. To appear.
+  ACM SIGCOMM'23. 
   <br>
   [[Paper](https://drive.google.com/file/d/1npCdR9Wqa_6aNe5IfgrklZuEbwVddahA/view?usp=drive_link)]
   [[Poster](https://drive.google.com/file/d/1cHTYJSZf6UvQRQFaDnpC_WzPcAvCqcaw/)]
@@ -40,7 +41,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   Cha Hwan Song, _**Xin Zhe Khooi**_, Raj Joshi, Inho Choi, Jialin Li, Mun Choon Chan
   <br>
-  ACM SIGCOMM'23. To appear.
+  ACM SIGCOMM'23. 
   <br>
   [[Paper](https://drive.google.com/file/d/1F2Z_KKdvD1_m8pfI_KRdhtiIjCbAPBn6/view?usp=drive_link)]
   [[Code](https://github.com/conweave-project)]
@@ -49,7 +50,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   Guangda Sun, Mingliang Jiang, _**Xin Zhe Khooi**_, Yunfan Li, Jialin Li
   <br>
-  ACM SIGCOMM'23. To appear.
+  ACM SIGCOMM'23. 
   <br>
   [[Paper](https://drive.google.com/file/d/159rAMWz0I5pqqPs0c2U-Cq5inGPLcJRi/view?usp=drive_link)]
   [[Code](https://github.com/nus-sys/neobft-artifact)]
@@ -58,7 +59,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   Raj Joshi, Cha Hwan Song, _**Xin Zhe Khooi**_, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong
   <br>
-  ACM SIGCOMM'23. To appear.
+  ACM SIGCOMM'23.
   <br>
   [[Paper](https://drive.google.com/file/d/1J7QOX5M-qH_PcvB6nO0lndvMzqOnWuRW/view?usp=drive_link)]
   [[Code](https://github.com/NUS-SNL/linkguardian)]
