@@ -18,7 +18,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## News
 
-- **[Sep 2023]** Emerged as 1st runner-up for the ACM SRC at SIGCOMM!
+- **[Sep 2023]** Emerged as 1st runner-up for the [ACM SRC](https://src.acm.org/winners/2024) at SIGCOMM!
 - **[Jul 2023]** One poster accepted at ACM SIGCOMM'23 Posters and Demos!
 - **[May 2023]** Three collaborated works are accepted at ACM SIGCOMM'23! 
 - **[Feb 2023]** Extension of DySO is accepted and published at Computer Networks.
