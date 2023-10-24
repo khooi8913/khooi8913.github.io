@@ -38,7 +38,7 @@ My research interests lie in the domain of programmable networks, particularly i
   [[Paper]()]
   [[Code](https://github.com/khooi8913/tofino-ascon)]
   <br>
-  _*Joint first-author._
+  *Joint first-author.
 
 
 - **Poster: Towards Accelerating the 5G Centralized Unit with Programmable Switches**
