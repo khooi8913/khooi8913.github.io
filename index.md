@@ -31,7 +31,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 - **P4EAD: Securing the In-band Control Channels on Commodity Programmable Switches**
   <br>
-  Archit Bhatnagar*, _**Xin Zhe Khooi***_, Cha Hwan Song, Mun Choon Chan
+  Archit Bhatnagar*, _**Xin Zhe Khooi\***_, Cha Hwan Song, Mun Choon Chan
   <br>
   EuroP4'23. 
   <br>
