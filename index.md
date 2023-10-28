@@ -18,7 +18,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## News
 
-- **[Oct 2023]** Joint work with our ex-intern, Archit, is accepted at EuroP4'23!
+- **[Oct 2023]** Joint work with our ex-intern, [Archit](https://archit-bhatnagar.github.io/), is accepted at EuroP4'23!
 - **[Sep 2023]** Emerged as 1st runner-up for the [ACM SRC](https://src.acm.org/winners/2024) at SIGCOMM!
 - **[Jul 2023]** One poster accepted at ACM SIGCOMM'23 Posters and Demos!
 - **[May 2023]** Three collaborated works are accepted at ACM SIGCOMM'23! 
@@ -35,7 +35,7 @@ My research interests lie in the domain of programmable networks, particularly i
   <br>
   EuroP4'23. 
   <br>
-  [[Paper]()]
+  [[Paper](https://drive.google.com/file/d/1U9C9Yk6lpwzeACQWyFKihsFIUCL3ipld/view?usp=drive_link)]
   [[Code](https://github.com/khooi8913/tofino-ascon)]
   <br>
   *Joint first-author.
