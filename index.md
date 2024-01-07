@@ -161,7 +161,7 @@ My research interests lie in the domain of programmable networks, particularly i
 
 ## Teaching
 
-- [Fall'23] CS5229 Advanced Computer Networks (w/ [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/))
+- [[Fall'23](https://drive.google.com/file/d/1mSUcTZn2I7Kp_Je31WSP0AV3YhfF4-hB/view?usp=drive_link)] CS5229 Advanced Computer Networks (w/ [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/))
 
 - [[Winter'23](https://drive.google.com/file/d/16x2lIx5ttwGbu8y4VfJ8j_kLSD7o8cO5/view?usp=share_link)] 
 CS2105 Introduction to Computer Networks (w/ [Richard Ma](https://www.comp.nus.edu.sg/~tbma) and [Jithin Vachery](https://www.comp.nus.edu.sg/~jithin/))
