@@ -9,25 +9,39 @@ Before my PhD studies, I was a Research Assistant at the NUS-Singtel Cybersecuri
 
 Prior to joining NUS, I did my undergraduate studies at the [Faculty of Computer Science and Information Technology (FCSIT)](https://fsktm.um.edu.my/), University of Malaya, Malaysia, with my senior-year thesis advised by [Prof. Teck Chaw Ling](https://umexpert.um.edu.my/tchaw).
 
-My CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: Apr'24). 
+My CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: Oct'24). 
 
 ## Research Interests
 
-My research interests lie in the domain of programmable networks, particularly in exploring new applications/ use cases/ design paradigms with programmable data planes and software-defined networking (SDN) in cellular and/or data-center networks. 
+<!-- My research interests lie in the domain of programmable networks, particularly in exploring new applications/ use cases/ design paradigms with programmable data planes and software-defined networking (SDN) in cellular and/or data-center networks.  -->
+My research focuses on systems support for emerging 5G/6G cellular networks.
+Additionally, I am broadly interested in software-defined networking (SDN), programmable data planes and data center networking (e.g., network support for distributed AI/ML clusters).
 
 
 ## News
 
+- **[Oct 2024]** Collaborated work, DBench is accepted at 5G-MEMU'24.
+- **[Apr 2024]** Joined the AI Networking Team at ByteDance, Singapore as an intern.
 - **[Oct 2023]** Joint work with our ex-intern, [Archit](https://archit-bhatnagar.github.io/), is accepted at EuroP4'23!
 - **[Sep 2023]** Emerged as 1st runner-up for the [ACM SRC](https://src.acm.org/winners/2024) at SIGCOMM!
 - **[Jul 2023]** One poster accepted at ACM SIGCOMM'23 Posters and Demos!
 - **[May 2023]** Three collaborated works are accepted at ACM SIGCOMM'23! 
-- **[Feb 2023]** Extension of DySO is accepted and published at Computer Networks.
+<!-- - **[Feb 2023]** Extension of DySO is accepted and published at Computer Networks. -->
 <!-- - **[Oct 2022]** Awarded the inaugural SoC Teaching Fellowship (TFS) for 2023. -->
 
 ## Recent Publications
 
 <!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
+
+- **Towards Continuous Latency Monitoring through Open RAN Interfaces**
+  <br>
+  Satis Kumar Permal, Yixi Chen, _**Xin Zhe Khooi**_, Biqing Qiu, Mun Choon Chan
+  <br>
+  5G-MEMU'24. 
+  <br>
+  [[Paper](https://drive.google.com/file/d/1PLkOAN2q0k8V_IalizQcqLBkAmu126sP/view)]
+  [[Code](https://github.com/NUS-CIR/DBench)]
+  <br>
 
 - **P4EAD: Securing the In-band Control Channels on Commodity Programmable Switches**
   <br>
