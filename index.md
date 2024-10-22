@@ -20,6 +20,7 @@ Additionally, I am broadly interested in software-defined networking (SDN), prog
 
 ## News
 
+- **[Oct 2024]** JUNCTION is accepted at IEEE SECON'24.
 - **[Oct 2024]** Collaborated work, DBench is accepted at 5G-MEMU'24.
 - **[Apr 2024]** Joined the AI Networking Team at ByteDance, Singapore as an intern.
 - **[Oct 2023]** Joint work with our ex-intern, [Archit](https://archit-bhatnagar.github.io/), is accepted at EuroP4'23!
@@ -32,6 +33,16 @@ Additionally, I am broadly interested in software-defined networking (SDN), prog
 ## Recent Publications
 
 <!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
+
+- **JUNCTION: A Scalable Multi-access Solution using Programmable Switches**
+  <br>
+  _**Xin Zhe Khooi**_, Cha Hwan Song, Satis Kumar Permal, Nishant Budhdev, Levente Csikor, Raj Joshi, Mun Choon Chan
+  <br>
+  IEEE SECON'24. 
+  <br>
+  [[Paper]()]
+  [[Code](https://github.com/NUS-CIR/JUNCTION)]
+  <br>
 
 - **Towards Continuous Latency Monitoring through Open RAN Interfaces**
   <br>
