@@ -20,6 +20,7 @@ Additionally, I am broadly interested in software-defined networking (SDN), prog
 
 ## News
 
+- **[Dec 2024]** Joint work with [Anuj Kalia](https://anujkalia.com/), SwapRAN is accepted at ACM MOBICOM'25!
 - **[Oct 2024]** JUNCTION is accepted at IEEE SECON'24.
 - **[Oct 2024]** Collaborated work, DBench is accepted at 5G-MEMU'24.
 - **[Apr 2024]** Joined the AI Networking Team at ByteDance, Singapore as an intern.
@@ -33,6 +34,17 @@ Additionally, I am broadly interested in software-defined networking (SDN), prog
 ## Recent Publications
 
 <!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
+
+- **How to Update Your vRAN**
+  <br>
+  _**Xin Zhe Khooi\***_, Anuj Kalia*, Mun Choon Chan
+  <br>
+  ACM MOBICOM'25. (To appear)
+  <br>
+  [[Paper]()]
+  [[Code]()]
+  <br>
+  *Joint first-author.
 
 - **JUNCTION: A Scalable Multi-access Solution using Programmable Switches**
   <br>
