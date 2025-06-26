@@ -9,17 +9,18 @@ Before my PhD studies, I was a Research Assistant at the NUS-Singtel Cybersecuri
 
 Prior to joining NUS, I did my undergraduate studies at the [Faculty of Computer Science and Information Technology (FCSIT)](https://fsktm.um.edu.my/), University of Malaya, Malaysia, with my senior-year thesis advised by [Prof. Teck Chaw Ling](https://umexpert.um.edu.my/tchaw).
 
-My CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: Dec'24). 
+My CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: June'24). 
 
 ## Research Interests
 
 <!-- My research interests lie in the domain of programmable networks, particularly in exploring new applications/ use cases/ design paradigms with programmable data planes and software-defined networking (SDN) in cellular and/or data-center networks.  -->
-My research focuses on systems support for emerging 5G/6G cellular networks.
-Additionally, I am broadly interested in software-defined networking (SDN), programmable data planes and data center networking (e.g., network support for distributed AI/ML clusters).
-
+My research focuses on systems approaches for enhancing 5G/6G cellular networks.
+Additionally, I am broadly interested in data center networking, software-defined networking (SDN), and programmable data planes.
 
 ## News
 
+- **[Apr 2025]** I will be presenting a demo of SwapRAN at the [OAI Workshop 2025](https://openairinterface.org/summer-2025-workshop-the-openairinterface-path-to-ai-driven-6g/).
+- **[Apr 2025]** Puppis is accepted at ACM E-ENERGY'25.
 - **[Dec 2024]** Joint work with [Anuj Kalia](https://anujkalia.com/), SwapRAN is accepted at ACM MOBICOM'25!
 - **[Oct 2024]** JUNCTION is accepted at IEEE SECON'24.
 - **[Oct 2024]** Collaborated work, DBench is accepted at 5G-MEMU'24.
@@ -35,16 +36,26 @@ Additionally, I am broadly interested in software-defined networking (SDN), prog
 
 <!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
 
-- **How to Update Your vRAN**
+- **How to Update Your 5G vRAN**
   <br>
   _**Xin Zhe Khooi\***_, Anuj Kalia*, Mun Choon Chan
   <br>
   ACM MOBICOM'25. (To appear)
   <br>
-  [[Paper]()]
-  [[Code]()]
+  [[Paper](https://drive.google.com/file/d/1FjyjtAKQYPYTRNaaDy3oc8-ZcpY3PuV0/view?usp=sharing)]
+  [[Code](https://github.com/NUS-CIR/SwapRAN)]
   <br>
   *Joint first-author.
+
+- **Revisiting CPU Performance Scaling for Energy-Efficient Packet Processing Applications**
+  <br>
+  Biqing Qiu, Yixi Chen, _**Xin Zhe Khooi**_, Cha Hwan Song, Mun Choon Chan
+  <br>
+  ACM E-ENERGY'25
+  <br>
+  [[Paper](https://drive.google.com/file/d/1IIZyCbiKN3KajUQXBmv3PgAU-BE_D0jT/view?usp=sharing)]
+  [[Code](https://github.com/NUS-CIR/Puppis)]
+  <br>
 
 - **JUNCTION: A Scalable Multi-access Solution using Programmable Switches**
   <br>
