@@ -229,6 +229,8 @@ Additionally, I am broadly interested in data center networking, software-define
 
 ## Teaching
 
+- [[Fall'25]()] CS5229 Advanced Computer Networks (w/ [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/))
+
 - [[Fall'23](https://drive.google.com/file/d/1mSUcTZn2I7Kp_Je31WSP0AV3YhfF4-hB/view?usp=drive_link)] CS5229 Advanced Computer Networks (w/ [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/))
 
 - [[Winter'23](https://drive.google.com/file/d/16x2lIx5ttwGbu8y4VfJ8j_kLSD7o8cO5/view?usp=share_link)] 
