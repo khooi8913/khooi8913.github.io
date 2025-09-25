@@ -9,7 +9,7 @@ Before my PhD studies, I was a Research Assistant at the NUS-Singtel Cybersecuri
 
 Prior to joining NUS, I did my undergraduate studies at the [Faculty of Computer Science and Information Technology (FCSIT)](https://fsktm.um.edu.my/), University of Malaya, Malaysia, with my senior-year thesis advised by [Prof. Teck Chaw Ling](https://umexpert.um.edu.my/tchaw).
 
-My CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: June'24). 
+My CV can be downloaded [here](https://drive.google.com/file/d/1m298m6vaEYXcQRY1MrjSu6HmlOJ6sADk/view?usp=sharing) (Last Updated: September'25). 
 
 ## Research Interests
 
@@ -19,6 +19,8 @@ Additionally, I am broadly interested in data center networking, software-define
 
 ## News
 
+- **[Aug 2025]** Work done during my internship at ByteDance, ReCCL, is accepted at EuroSys'26!
+- **[Aug 2025]** A demo of SwapRAN will be presented at ACM MOBICOM'25.
 - **[Apr 2025]** I will be presenting a demo of SwapRAN at the [OAI Workshop 2025](https://openairinterface.org/summer-2025-workshop-the-openairinterface-path-to-ai-driven-6g/).
 - **[Apr 2025]** Puppis is accepted at ACM E-ENERGY'25.
 - **[Dec 2024]** Joint work with [Anuj Kalia](https://anujkalia.com/), SwapRAN is accepted at ACM MOBICOM'25!
@@ -36,11 +38,29 @@ Additionally, I am broadly interested in data center networking, software-define
 
 <!-- My full list of publications can be found [here](https://dblp.org/pid/155/4219.html). -->
 
+- **Handling Network Faults in Distributed AI Training: <br>Failover is Now an Option**
+  <br>
+  _**Xin Zhe Khooi**_, Zhuo Jiang, Pan Xie, Zhigang Cui, Meng Wang, Yuze Jin, Pengfei Huo, Dongyang Wang, Lulu Chen, Lei Wang, Liaoyuan Feng, Xiaodong Liu, Peng Li, Qinlong Wang, Yang Bai, Yongcan Wang, Hao Jin, Jinshuai Sun, Shan Lu, Xiang Shi, Yingkai Zhao, Haiquan Chen, Yi Li, Jianxi Ye, Mun Choon Chan
+  <br>
+  EuroSys'26. (To appear)
+  <br>
+
+- **Demo: Towards Seamless 5G vRAN Software Updates**
+  <br>
+  _**Xin Zhe Khooi\***_, Anuj Kalia*, Mun Choon Chan
+  <br>
+  ACM MOBICOM'25.
+  <br>
+  [[Paper](https://drive.google.com/file/d/1-GlCBu6GUs9AtEYsu6bA4c-nRhzx1Nbp/view?usp=drive_link)]
+  [[Code](https://github.com/NUS-CIR/SwapRAN)]
+  <br>
+  *Joint first-author.
+
 - **How to Update Your 5G vRAN**
   <br>
   _**Xin Zhe Khooi\***_, Anuj Kalia*, Mun Choon Chan
   <br>
-  ACM MOBICOM'25. (To appear)
+  ACM MOBICOM'25.
   <br>
   [[Paper](https://drive.google.com/file/d/1FjyjtAKQYPYTRNaaDy3oc8-ZcpY3PuV0/view?usp=sharing)]
   [[Code](https://github.com/NUS-CIR/SwapRAN)]
